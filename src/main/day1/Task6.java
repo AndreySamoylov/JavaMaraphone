@@ -1,4 +1,4 @@
-package Day1;
+package main.day1;
 
 //Таблица умножения для какого то числа
 public class Task6 {
