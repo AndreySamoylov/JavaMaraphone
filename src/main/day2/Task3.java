@@ -1,6 +1,7 @@
 package main.day2;
 
 import java.util.Scanner;
+//3. Реализовать программу №2, используя цикл while.
 
 public class Task3 {
     public static void main(String[] args) {
